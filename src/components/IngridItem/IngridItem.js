@@ -1,5 +1,3 @@
-import {useDispatch} from 'react-redux';
-
 
 const IngridItem = ({ingridName, isActive, price, onItemSelected}) => {
   return (

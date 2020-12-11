@@ -1,3 +1,3 @@
-import PurchaseOrder from './PurchaseOrder';
+import PurchaseOrder from './PurshaseOrder';
 
 export default PurchaseOrder;
